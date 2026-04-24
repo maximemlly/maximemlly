@@ -1,47 +1,63 @@
-# Maxime Maillary's GitHub Page
+# Hi, I'm Maxime Maillary 👋
 
-### 👋 Welcome to my developer portfolio!
+### Welcome to my developer portfolio!
 
-My name is **Maxime Maillary**. I am 18 years old and currently a **First-Year Fullstack Developer Student** at **Coda**.
+I'm **18 years old** and currently a **First-Year Fullstack Developer Student** at **[Coda School](https://www.coda.school/)**.
 
-This profile serves as a gateway to my coding journey. Here, you will find insights into my ideas, my ambitions, and the milestones of my technical growth. Feel free to explore my repositories to see what I am currently building!
+This profile is a window into my coding journey — my ideas, my ambitions, and the milestones of my technical growth. Feel free to explore my repositories!
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ My Skills
 
-As I am at the beginning of my journey, I am currently exploring and learning the basics of the following technologies:
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c,cpp,cs,mysql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,wordpress" />
+</p>
+
+<h3 align="center">Currently Learning 🚀</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind" />
 </p>
 
 ---
 
-### 📫 How to reach me
-* Feel free to explore my projects and reach out if you have any feedback or collaboration ideas!
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Hutchinson Connect](https://github-readme-stats.vercel.app/api/pin/?username=sofianecharifi&repo=Hutchinson-Connect&theme=radical&hide_border=true)](https://github.com/sofianecharifi/Hutchinson-Connect)
+[![Pokemon Showdown JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=maximemlly&repo=pokemon-sd-javafx&theme=radical&hide_border=true)](https://github.com/maximemlly/pokemon-sd-javafx)
+[![Cod'Blast](https://github-readme-stats.vercel.app/api/pin/?username=maximemlly&repo=codblast&theme=radical&hide_border=true)](https://github.com/maximemlly/codblast)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximemlly&show_icons=true&theme=radical" alt="Maxime's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximemlly&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maximemlly&show_icons=true&theme=radical&hide_border=true" alt="Maxime's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximemlly&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
+
+---
 
 ## 🤝 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maxime-maillary)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:contact@maxime-maillary.fr)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/maxime-maillary">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@maxime-maillary.fr">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
