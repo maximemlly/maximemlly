@@ -19,7 +19,7 @@ This profile is a window into my coding journey — my ideas, my ambitions, and 
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,wordpress" />
 </p>
 
 <h3 align="center">Currently Learning 🚀</h3>
