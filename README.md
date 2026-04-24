@@ -12,9 +12,9 @@ This profile is a window into my coding journey — my ideas, my ambitions, and 
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c,cpp,cs,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,c,mysql,nodejs,express" />
 </p>
 
 <h3 align="center">Tools</h3>
