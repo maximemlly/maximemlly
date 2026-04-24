@@ -33,7 +33,7 @@ This profile is a window into my coding journey — my ideas, my ambitions, and 
 
 <div align="center">
 
-[![Hutchinson Connect](https://github-readme-stats.vercel.app/api/pin/?username=sofianecharifi&repo=Hutchinson-Connect&theme=radical&hide_border=true)](https://github.com/sofianecharifi/Hutchinson-Connect)
+[![Hutchinson Connect](https://github-readme-stats.vercel.app/api/pin/?username=maximemlly&repo=emotion&theme=radical&hide_border=true)](https://github.com/maximemlly/emotion)
 [![Pokemon Showdown JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=maximemlly&repo=pokemon-sd-javafx&theme=radical&hide_border=true)](https://github.com/maximemlly/pokemon-sd-javafx)
 [![Cod'Blast](https://github-readme-stats.vercel.app/api/pin/?username=maximemlly&repo=codblast&theme=radical&hide_border=true)](https://github.com/maximemlly/codblast)
 
