@@ -2,7 +2,7 @@
 
 ### Welcome to my developer portfolio!
 
-I'm **18 years old** and currently a **First-Year Fullstack Developer Student** at **[Coda School](https://www.coda.school/)**.
+I'm **18 years old** and currently a **Second-Year Fullstack Developer Student** at **[Coda School](https://www.coda.school/)**.
 
 This profile is a window into my coding journey — my ideas, my ambitions, and the milestones of my technical growth. Feel free to explore my repositories!
 
