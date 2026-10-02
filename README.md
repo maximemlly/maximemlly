@@ -36,6 +36,7 @@ This profile is a window into my coding journey — my ideas, my ambitions, and 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=maximemlly&repo=portfolio&theme=radical&hide_border=true)](https://github.com/maximemlly/portfolio)
 [![Pokemon Showdown JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=maximemlly&repo=pokemon-sd-javafx&theme=radical&hide_border=true)](https://github.com/maximemlly/pokemon-sd-javafx)
 [![Cod'Blast](https://github-readme-stats.vercel.app/api/pin/?username=maximemlly&repo=codblast&theme=radical&hide_border=true)](https://github.com/maximemlly/codblast)
+[![BUzzr](https://github-readme-stats.vercel.app/api/pin/?username=maximemlly&repo=buzzr&theme=radical&hide_border=true)](https://github.com/maximemlly/buzzr)
 
 </div>
 
